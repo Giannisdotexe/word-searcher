@@ -25,7 +25,7 @@ options = Options()
 #options.binary_location = "F:/Desktop/Chrome_Testing/chrome-win64/chrome.exe"
 browser = webdriver.Chrome(service=Service("F:/Desktop/Chrome_Testing/chromedriver132/chromedriver-win64/chromedriver.exe"))
 
-url = 'https://thewordsearch.org/'
+url = 'https://wordsearch.io/'
 
 #cellVal cellVal16
 
